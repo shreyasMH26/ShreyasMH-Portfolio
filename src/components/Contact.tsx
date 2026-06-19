@@ -27,6 +27,11 @@ export default function Contact() {
       ),
     },
     {
+  label: 'XTICH',
+  value: 'xtich.in',
+  href: 'https://xtich.in',
+},
+    {
       label: 'Portfolio',
       value: 'shreyasmh-portfolio-1.onrender.com',
       href: 'https://shreyasmh-portfolio-1.onrender.com',
@@ -172,7 +177,7 @@ export default function Contact() {
       <div className="w-full border-t border-white/5 pt-10 mt-20">
         <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500">
           <span className="font-bold text-zinc-300 text-sm" style={{ fontFamily: 'var(--font-heading)' }}>Shreyas MH</span>
-          <span className="text-center">Computer Science Engineering Student | AI & ML Enthusiast</span>
+          <span className="text-center">Co-Founder @ XTICH | CSE Student | AI/ML Enthusiast</span>
           <span>© 2026 Shreyas MH. All rights reserved.</span>
         </div>
       </div>
