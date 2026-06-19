@@ -2,10 +2,10 @@ import { useState, useEffect } from 'react';
 
 const navLinks = [
   { name: 'About', id: 'about' },
+  { name: 'Experience', id: 'experience' },
   { name: 'Skills', id: 'skills' },
   { name: 'Projects', id: 'projects' },
   { name: 'Timeline', id: 'timeline' },
-  { name: 'Experience', id: 'experience' },
   { name: 'Resume', id: 'resume' },
   { name: 'Contact', id: 'contact' },
 ];
