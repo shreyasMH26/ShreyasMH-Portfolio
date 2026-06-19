@@ -22,10 +22,10 @@ export default function App() {
       <div className="relative z-10 w-full">
         <Hero />
         <About />
+        <Experience />
         <Skills />
         <Projects />
         <Timeline />
-        <Experience />
         <Resume />
         <Contact />
       </div>
