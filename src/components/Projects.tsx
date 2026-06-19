@@ -13,6 +13,9 @@ const projects = [
     "Website & digital presence"
   ],
   tech: ["React", "Branding", "Business Strategy", "Startup"],
+  gradient: 'from-zinc-500 to-zinc-300',
+demoUrl: 'https://xtich.in',
+githubUrl: 'https://xtich.in',
   link: "https://xtich.in",
   featured: true,
 },

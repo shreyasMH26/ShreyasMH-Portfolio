@@ -45,20 +45,26 @@ export default function About() {
             01 // About Me
           </div>
           
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight tracking-tight mb-8" style={{ fontFamily: 'var(--font-heading)' }}>
-           Hi, I'm Shreyas. Co-Founder of XTICH and aspiring AI/ML Engineer.
-          </h2>
+         <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight tracking-tight">
+  Hi, I'm Shreyas MH. Building intelligent systems and student-first brands.
+</h2>
 
           <div className="space-y-6 text-zinc-300 text-[16px] sm:text-[18px] leading-relaxed">
-            <p>
-             I'm Shreyas MH, a Computer Science Engineering student and Co-Founder of XTICH, a student-focused apparel and branding startup. I am passionate about software development, entrepreneurship, Artificial Intelligence, and building products that create real-world impact.
-            </p>
-            <p>
-             Alongside building XTICH, I develop web applications, explore AI/ML technologies, and create practical technology solutions. I enjoy transforming ideas into products, whether through software, startups, or innovative digital experiences.
-            </p>
-            <p>
-              Currently, I am focused on growing XTICH, strengthening my expertise in React, TypeScript, Python, and Machine Learning, and preparing for a career at the intersection of technology and entrepreneurship.
-            </p>
+           <p>
+  I'm Shreyas MH, a Computer Science Engineering student...
+</p>
+
+<p>
+  I enjoy building projects that combine creativity with technology...
+</p>
+
+<p>
+  Beyond software development, I am also the Co-Founder of XTICH, where I work on building a student-focused apparel and branding company that helps communities express their identity through premium merchandise and custom branding solutions.
+</p>
+
+<p>
+  Currently, I am focused on improving my skills in React, TypeScript, Python...
+</p>
           </div>
         </div>
 

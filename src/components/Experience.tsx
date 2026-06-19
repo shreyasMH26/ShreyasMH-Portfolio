@@ -22,7 +22,7 @@ export default function Experience() {
 
         <div className="rounded-3xl border border-white/10 bg-white/[0.02] p-8">
           <h3 className="text-2xl font-bold mb-2">
-            Co-Founder — XTICH
+            Co-Founder & Brand Strategist — XTICH
           </h3>
 
           <p className="text-zinc-400 mb-6">
@@ -30,9 +30,7 @@ export default function Experience() {
           </p>
 
           <p className="text-zinc-300 leading-relaxed mb-6">
-            XTICH is a student-focused apparel and branding startup building
-            premium merchandise, custom clothing and identity-driven products
-            for students and communities.
+            Co-founded XTICH, a student-focused apparel and branding startup. Leading product strategy, brand development, website presence, and community growth while building a recognizable student-first brand.
           </p>
 
           <ul className="space-y-2 text-zinc-400 mb-8">
