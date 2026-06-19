@@ -5,6 +5,7 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Timeline from './components/Timeline';
+import Experience from './components/Experience';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 
@@ -24,6 +25,7 @@ export default function App() {
         <Skills />
         <Projects />
         <Timeline />
+        <Experience />
         <Resume />
         <Contact />
       </div>
