@@ -57,7 +57,7 @@ export default function Navbar() {
             className={`text-[21px] sm:text-[24px] tracking-tight transition-colors duration-300 select-none ${logoTextClass}`}
             style={{ fontFamily: 'var(--font-heading)' }}
           >
-            Shreyas MH
+           XTICH / Shreyas MH
           </span>
           <span
             className={`text-[24px] sm:text-[28px] transition-transform duration-500 group-hover:rotate-[180deg] select-none ${logoTextClass}`}
