@@ -5,7 +5,17 @@ const milestones = [
     year: '2025',
     title: 'Started Computer Science Engineering',
     desc: 'Began the formal academic foundation in algorithms, system structures, and software engineering methodologies.',
-  },
+  },{
+  year: '2025',
+  title: 'Co-Founded XTICH',
+  desc: 'Co-founded XTICH, a student-focused apparel and branding startup. Leading product strategy, brand development, website presence, and student community growth.',
+  isHighlight: true,
+},
+{
+  year: '2025',
+  title: 'Launched XTICH Website',
+  desc: 'Designed and launched xtich.in to establish the brand’s online presence and connect with students across campuses.',
+},
   {
     year: '2025',
     title: 'Built Multiple Web Development Projects',
