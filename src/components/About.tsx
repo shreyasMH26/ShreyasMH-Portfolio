@@ -13,6 +13,10 @@ const personalityTraits = [
 const interests = [
   'Artificial Intelligence',
   'Machine Learning',
+  'Entrepreneurship',
+'Startup Building',
+'Brand Development',
+'Product Strategy',
   'Software Development',
   'Full Stack Development',
   'Emerging Technologies',
@@ -42,18 +46,18 @@ export default function About() {
           </div>
           
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight tracking-tight mb-8" style={{ fontFamily: 'var(--font-heading)' }}>
-            Hi, I'm Shreyas. I build <span className="gradient-text">intelligent systems</span> for the real world.
+           Hi, I'm Shreyas. Co-Founder of XTICH and aspiring AI/ML Engineer.
           </h2>
 
           <div className="space-y-6 text-zinc-300 text-[16px] sm:text-[18px] leading-relaxed">
             <p>
-              I’m Shreyas MH, a Computer Science Engineering student passionate about software development, Artificial Intelligence, Machine Learning, and emerging technologies.
+             I'm Shreyas MH, a Computer Science Engineering student and Co-Founder of XTICH, a student-focused apparel and branding startup. I am passionate about software development, entrepreneurship, Artificial Intelligence, and building products that create real-world impact.
             </p>
             <p>
-              I enjoy building projects that combine creativity with technology, from responsive web applications to IoT-based systems. My goal is to become an AI/ML Engineer and contribute to creating intelligent products that solve real-world problems.
+             Alongside building XTICH, I develop web applications, explore AI/ML technologies, and create practical technology solutions. I enjoy transforming ideas into products, whether through software, startups, or innovative digital experiences.
             </p>
             <p>
-              Currently, I am focused on improving my skills in React, TypeScript, Python, Machine Learning, and modern software development.
+              Currently, I am focused on growing XTICH, strengthening my expertise in React, TypeScript, Python, and Machine Learning, and preparing for a career at the intersection of technology and entrepreneurship.
             </p>
           </div>
         </div>
@@ -77,7 +81,7 @@ export default function About() {
             <div>
               <div className="text-zinc-500 text-[12px] uppercase tracking-widest font-semibold mb-1">Core Mission</div>
               <blockquote className="text-zinc-300 italic text-[15px] border-l border-zinc-700 pl-4 py-1">
-                "To continuously learn, build impactful software, and contribute to the future of Artificial Intelligence and technology."
+               Build impactful technology products, grow XTICH into a recognized student brand, and create solutions that combine innovation, business, and technology.
               </blockquote>
             </div>
           </div>
