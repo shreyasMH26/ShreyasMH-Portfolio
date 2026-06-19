@@ -71,6 +71,7 @@ export default function Contact() {
           className="text-5xl sm:text-6xl md:text-7xl font-extrabold tracking-tight mb-6 leading-none"
           style={{ fontFamily: 'var(--font-heading)' }}
         >
+          Interested in collaborating, building products, or discussing technology and startups? Whether it's software development, AI/ML, or growing XTICH, I'd love to connect.
           Let's <span className="gradient-text">Connect</span>.
         </h2>
 
