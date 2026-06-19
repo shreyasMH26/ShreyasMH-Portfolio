@@ -72,7 +72,7 @@ export default function Contact() {
           style={{ fontFamily: 'var(--font-heading)' }}
         >
           Interested in collaborating, building products, or discussing technology and startups? Whether it's software development, AI/ML, or growing XTICH, I'd love to connect.
-          Let's <span className="gradient-text">Connect</span>.
+           <span className="gradient-text"> Let's Connect</span>.
         </h2>
 
         <p className="text-zinc-400 text-base sm:text-lg max-w-lg mb-12 leading-relaxed">
