@@ -2,7 +2,8 @@ import { useState, useEffect } from 'react';
 import { useTypewriter } from '../hooks/useTypewriter';
 
 const TYPEWRITER_TEXT =
-  'I build modern web applications, intelligent systems, and practical technology solutions. From AI-powered software to IoT security systems, I enjoy turning ideas into real-world products.';
+
+'I am a Computer Science Engineering student, Co-Founder of XTICH, and an aspiring AI/ML engineer. I build modern web applications, intelligent systems, and technology-driven products that solve real-world problems.';
 
 export default function Hero() {
   const { displayed, done } = useTypewriter({
@@ -58,7 +59,7 @@ export default function Hero() {
           }}
           aria-hidden="true"
         >
-          Computer Science Engineering Student | AI & ML Enthusiast | Software Developer
+          Computer Science Engineering Student • Co-Founder at XTICH • AI/ML Enthusiast • Software Developer
         </div>
 
         {/* 2. Typewriter text */}
