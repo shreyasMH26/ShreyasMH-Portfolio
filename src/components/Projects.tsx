@@ -2,6 +2,21 @@ import { useInView } from '../hooks/useInView';
 
 const projects = [
   {
+  title: "XTICH",
+  category: "Startup & Branding",
+  description:
+    "Student-focused apparel and branding startup co-founded to help students and communities build identity through premium merchandise and custom apparel.",
+  features: [
+    "Premium student merchandise",
+    "Custom apparel solutions",
+    "Brand identity development",
+    "Website & digital presence"
+  ],
+  tech: ["React", "Branding", "Business Strategy", "Startup"],
+  link: "https://xtich.in",
+  featured: true,
+},
+{
     title: 'Doubt System',
     category: 'Educational Platform',
     description: 'A student-focused platform designed to simplify doubt-solving and academic collaboration. Built to help students ask questions, share knowledge, and improve learning efficiency through an intuitive interface.',
@@ -144,7 +159,7 @@ export default function Projects() {
                     {project.status === 'Learning & Building' ? 'Learning Topics' : 'Key Features'}
                   </h4>
                   <ul className="space-y-1">
-                    {project.features.map((feature) => (
+                   {project.features?.map((feature) => (
                       <li key={feature} className="flex items-center text-xs text-zinc-400 gap-2">
                         <span className="w-1.5 h-1.5 rounded-full bg-indigo-500/60" />
                         <span>{feature}</span>

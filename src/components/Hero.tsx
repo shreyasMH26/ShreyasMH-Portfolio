@@ -3,7 +3,8 @@ import { useTypewriter } from '../hooks/useTypewriter';
 
 const TYPEWRITER_TEXT =
 
-'I am a Computer Science Engineering student, Co-Founder of XTICH, and an aspiring AI/ML engineer. I build modern web applications, intelligent systems, and technology-driven products that solve real-world problems.';
+
+'Computer Science Engineering Student • Co-Founder at XTICH • Building the Future of Student Merchandise • AI/ML Enthusiast'
 
 export default function Hero() {
   const { displayed, done } = useTypewriter({
